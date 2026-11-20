@@ -42,7 +42,7 @@ from aiogram.types import (
 # ─────────────────────────────── НАСТРОЙКИ ───────────────────────────────
 
 BOT_NAME = "ПИ1 Расписание"
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = "8900029644:AAGxxoe1RojLPfaeN26Z-f2ro2Cq3GOtjns"
 DB_PATH = os.getenv("DB_PATH", "bot.db")
 
 # Москва — UTC+3 без перехода на летнее время
