@@ -13,7 +13,7 @@
 
 Запуск:
     pip install -r requirements.txt
-    export BOT_TOKEN="8900029644:AAGxxoe1RojLPfaeN26Z-f2ro2Cq3GOtjns"      # Windows (PowerShell): $env:BOT_TOKEN="..."
+    export BOT_TOKEN="9144967869:AAGS9QSZfigLWUK4dTrLuHrMRwxpyI-xthU"      # Windows (PowerShell): $env:BOT_TOKEN="..."
     python bot.py
 """
 from __future__ import annotations
@@ -42,7 +42,7 @@ from aiogram.types import (
 # ─────────────────────────────── НАСТРОЙКИ ───────────────────────────────
 
 BOT_NAME = "ПИ1 Расписание"
-BOT_TOKEN = "8900029644:AAGxxoe1RojLPfaeN26Z-f2ro2Cq3GOtjns"
+BOT_TOKEN = "9144967869:AAGS9QSZfigLWUK4dTrLuHrMRwxpyI-xthU"
 DB_PATH = os.getenv("DB_PATH", "bot.db")
 
 # Москва — UTC+3 без перехода на летнее время
