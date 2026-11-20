@@ -13,7 +13,7 @@
 
 Запуск:
     pip install -r requirements.txt
-    export BOT_TOKEN="123456:ABC..."      # Windows (PowerShell): $env:BOT_TOKEN="..."
+    export BOT_TOKEN="8900029644:AAGxxoe1RojLPfaeN26Z-f2ro2Cq3GOtjns"      # Windows (PowerShell): $env:BOT_TOKEN="..."
     python bot.py
 """
 from __future__ import annotations
